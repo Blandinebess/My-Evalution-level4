@@ -63,7 +63,6 @@ const AboutMe = () => {
         </ul>
       </div>
 
-      {/* 💬 Fun Fact Toggle */}
       <div>
         <button
           onClick={() => setShowFact(!showFact)}
